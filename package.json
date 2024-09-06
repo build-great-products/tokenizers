@@ -1,0 +1,15 @@
+{
+  "name": "@roughapp/tokenizers",
+  "version": "0.20.0",
+  "description": "Fork of `tokenizers`",
+  "type": "module",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "scripts": {
+    "tidy": "biome check --fix --unsafe"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@biomejs/biome": "1.8.3"
+  }
+}
