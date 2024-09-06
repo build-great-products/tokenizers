@@ -1,8 +1,7 @@
 {
   "name": "@roughapp/tokenizers",
-  "version": "0.20.0",
+  "version": "0.20.0-v1",
   "description": "Fork of `tokenizers`",
-  "type": "module",
   "main": "./src/index.js",
   "types": "./src/index.d.ts",
   "scripts": {
